@@ -1,0 +1,7 @@
+name: Balance
+version: 1.0
+main: uk.co.Elllzman.Balance.Balance
+commands:
+  BalanceHealth:
+    permission: balance.admin
+    usage: /Balance on/off/enable/disable
